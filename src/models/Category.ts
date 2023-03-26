@@ -9,6 +9,7 @@ export interface Category {
 //teste
 //teste2
 //teste3
+//teste4
 export interface CategoryCreationAttributes extends Optional<Category, "id"> {}
 
 export interface CategoryInstace extends 
