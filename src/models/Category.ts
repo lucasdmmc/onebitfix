@@ -7,6 +7,7 @@ export interface Category {
   position: number
 }
 //teste
+//teste2
 export interface CategoryCreationAttributes extends Optional<Category, "id"> {}
 
 export interface CategoryInstace extends 
